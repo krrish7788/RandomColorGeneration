@@ -24,7 +24,7 @@ I completed this assignment using both React and ReasonReact.
  2. Using React
     
     cd Using_React
-    cd my-app  
+    cd my-app 
     npm start
     
     index.js file is in ./src
