@@ -1,0 +1,1 @@
+{ "dirs" : [ "src" ] , "pkgs" : [ [ "gentype" , "/home/krrish/Desktop/Interview/Final/InterviewPart2/Using_React/my-app/node_modules/gentype" ] , [ "reason-react" , "/home/krrish/Desktop/Interview/Final/InterviewPart2/Using_React/my-app/node_modules/reason-react" ] ] , "generated" : [] }
