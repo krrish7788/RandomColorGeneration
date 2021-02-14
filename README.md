@@ -1,16 +1,19 @@
 # InterviewPart2
 Color generating assignment
-			
-			
+						
 ******* Random Color Square Generator ********
 			
 
 I completed this assignment using both React and ReasonReact.
 
+
+
 Objective -> 1. Show my name on header
              2. Show 9 random color squares
+	     	   
 
 Added Feature - > 9 random color squares on click change to random color 
+
 
 
  1. Using ReasonReact
