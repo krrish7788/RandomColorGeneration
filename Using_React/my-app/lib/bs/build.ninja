@@ -1,0 +1,7 @@
+rescript = 1
+g_finger := /home/krrish/Desktop/Interview/Final/InterviewPart2/Using_React/my-app/node_modules/reason-react/lib/ocaml/install.stamp
+cleaner = /home/krrish/Desktop/Interview/Final/InterviewPart2/Using_React/my-app/node_modules/gentype/gentype.exe
+rule build_package
+  command = /home/krrish/Desktop/Interview/Final/InterviewPart2/Using_React/my-app/node_modules/bs-platform/linux/bsc.exe -w -49 -color always -no-alias-deps  $i
+  restat = 1
+o MyApp.cmi : build_package MyApp.mlmap
