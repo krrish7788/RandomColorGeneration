@@ -10,7 +10,7 @@ I completed this assignment using both React and ReasonReact.
 	     	   
 *Added Feature - 9 random color squares on click change to random color 
 
- 1. Using ReasonReact
+Using ReasonReact
  
     cd Using_ReasonReact
     cd my-react-app
@@ -21,7 +21,7 @@ I completed this assignment using both React and ReasonReact.
     reason files of the assignment are in ./src/RandomColorGen
     
     
- 2. Using React
+Using React
     
     cd Using_React
     cd my-app 
