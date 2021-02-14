@@ -25,7 +25,8 @@ Using ReasonReact
 Using React
     
     cd Using_React
-    cd my-app 
+    cd my-app
+    npm install
     npm start
     
     index.js file is in ./src
