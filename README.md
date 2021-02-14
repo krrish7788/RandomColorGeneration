@@ -8,10 +8,7 @@ Objective
 1. Show my name on header
 2. Show 9 random color squares
 	     	   
-Added Feature 
-1. 9 random color squares on click change to random color 
-
-
+Added Feature - 9 random color squares on click change to random color 
 
  1. Using ReasonReact
  
