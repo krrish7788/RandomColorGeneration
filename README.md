@@ -14,6 +14,7 @@ Using ReasonReact
  
     cd Using_ReasonReact
     cd my-react-app
+    npm install
     npm start
     npm run server ( in another terminal ) and check localhost:8000
     
