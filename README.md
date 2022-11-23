@@ -1,5 +1,4 @@
-# InterviewPart2
-Color generating assignment
+# Color generating assignment
 									
 
 I completed this assignment using both React and ReasonReact.
